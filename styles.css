@@ -23,7 +23,7 @@ header{
 #container input{
     height: 35px;
     padding-left: 10px;
-    width:30%;
+    width:50%;
     border: 1px solid black;
     border-radius: 5px;
 }
@@ -68,8 +68,6 @@ li {
     border-radius: 5px;
     color: #ffffff;
     position: relative;
-    left: 31% ;
-    max-width: 520px;
   }
   li:last-child {
     margin-bottom: 0;
